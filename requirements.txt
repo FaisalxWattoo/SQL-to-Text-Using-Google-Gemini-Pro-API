@@ -1,0 +1,5 @@
+streamlit==1.10.0          # Framework for creating web apps
+openai==0.10.2             # OpenAI's official library for accessing their API
+psycopg2==2.9.3            # PostgreSQL adapter for Python
+sqlalchemy==1.4.27         # SQL toolkit and Object-Relational Mapping (ORM) for Python
+python-dotenv==0.19.2      # Reads key-value pairs from a .env file and sets them as environment variables
